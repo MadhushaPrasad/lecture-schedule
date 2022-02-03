@@ -3131,19 +3131,19 @@ mark {
   font-size: var(--text-sm);
 }
 :root {
-  --cd-color-event-1: #2e2836;
+  --cd-color-event-1: #12005e;
   --cd-color-event-1-h: 199;
   --cd-color-event-1-s: 25%;
   --cd-color-event-1-l: 46%;
-  --cd-color-event-2: #6a2e35;
+  --cd-color-event-2: #7f0000;
   --cd-color-event-2-h: 271;
   --cd-color-event-2-s: 23%;
   --cd-color-event-2-l: 26%;
-  --cd-color-event-3: #f15a24;
+  --cd-color-event-3: #ffab00;
   --cd-color-event-3-h: 162;
   --cd-color-event-3-s: 14%;
   --cd-color-event-3-l: 68%;
-  --cd-color-event-4: #00aa2b;
+  --cd-color-event-4: #212121;
   --cd-color-event-4-h: 31;
   --cd-color-event-4-s: 89%;
   --cd-color-event-4-l: 68%;
